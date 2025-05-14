@@ -1,7 +1,7 @@
 # Generic Bird (FEB 25')
 A compact, Flappy-Bird–inspired 2D arcade game built with Python and Pygame.
 
-## 💡 Overview
+## 🚀 Overview
 - **Engine:** Python 3 & Pygame  
 - **Team:** Collaborative mini-team project  
 - **Core Loop:**  
